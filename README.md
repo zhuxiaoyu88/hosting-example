@@ -1,3 +1,3 @@
-# Hosting Example
+# hosting-example
 
-This project is for coding test example (landing page)
+Landing page example for coding test. Built with HTML, CSS, JS
